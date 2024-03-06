@@ -1,3 +1,5 @@
+# Custom Extensions need this file
+
 {
     "name": "Stellas Codespace",
     "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu",
