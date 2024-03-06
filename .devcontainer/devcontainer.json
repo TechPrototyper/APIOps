@@ -2,8 +2,6 @@
     "name": "Stellas Codespace",
     "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu",
     "extensions": [
-      "ms-python.python",
-      "ms-vscode.cpptools",
       "ms-azuretools.vscode-apimanagement",
       "esbenp.prettier-vscode"
     ],
