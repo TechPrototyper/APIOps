@@ -3,7 +3,9 @@
     "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu",
     "extensions": [
       "ms-python.python",
-      "ms-vscode.cpptools"
+      "ms-vscode.cpptools",
+      "ms-azuretools.vscode-apimanagement",
+      "esbenp.prettier-vscode"
     ],
     "settings": { 
       // Hier können Sie VS Code Einstellungen vornehmen
