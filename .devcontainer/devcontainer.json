@@ -1,0 +1,13 @@
+{
+    "name": "Stellas Codespace",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu",
+    "extensions": [
+      "ms-python.python",
+      "ms-vscode.cpptools"
+    ],
+    "settings": { 
+      // Hier können Sie VS Code Einstellungen vornehmen
+    },
+    "postCreateCommand": "echo 'Setup abgeschlossen!'"
+  }
+  
